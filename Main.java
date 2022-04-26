@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static int SelecaoTexto(){
-        int selecao = 0;
+        int selecao;
         while(true){
             try{
                 System.out.println("1\t\t=>\t\tMensagem 'Olá Mundo!'\n" +
