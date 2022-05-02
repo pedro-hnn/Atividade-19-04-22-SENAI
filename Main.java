@@ -44,7 +44,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Atividade SENAI 19/4/2022 - Básico de Java 1 - Curso: Desenvolvedor Java Vespertino\n\n");
 
-            int num1k,num2,num3,num4;
+            int num1,num2,num3,num4;
             Double num1_double;
 
             Boolean run = true;
